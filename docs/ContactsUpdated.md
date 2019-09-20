@@ -3,9 +3,10 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**created** | **String** |  | [optional] 
-**id** | **String** |  | [optional] 
 **type** | **String** |  | 
+**id** | **String** |  | [optional] 
+**created** | **String** |  | [optional] 
 **data** | [**ContactObject**](ContactObject.md) |  | [optional] 
+**previous_attributes** | **Object** |  | [optional] 
 
 

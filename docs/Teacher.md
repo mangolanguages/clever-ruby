@@ -3,11 +3,11 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
+**id** | **String** |  | [optional] 
 **created** | **String** |  | [optional] 
 **credentials** | [**Credentials**](Credentials.md) |  | [optional] 
 **district** | **String** |  | [optional] 
 **email** | **String** |  | [optional] 
-**id** | **String** |  | [optional] 
 **last_modified** | **String** |  | [optional] 
 **name** | [**Name**](Name.md) |  | [optional] 
 **school** | **String** |  | [optional] 
@@ -16,5 +16,6 @@ Name | Type | Description | Notes
 **state_id** | **String** |  | [optional] 
 **teacher_number** | **String** |  | [optional] 
 **title** | **String** |  | [optional] 
+**ext** | **Object** |  | [optional] 
 
 
