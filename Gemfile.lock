@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    clever-ruby (2.0.2)
-      json (~> 2.1, >= 2.1.0)
+    clever-ruby (2.1.0)
+      json (>= 1.8, < 3)
       typhoeus (~> 1.0, >= 1.0.1)
 
 GEM
@@ -64,4 +64,4 @@ DEPENDENCIES
   webmock (~> 2.3, >= 1.24.3)
 
 BUNDLED WITH
-   1.15.3
+   1.17.2
